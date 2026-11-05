@@ -20,7 +20,7 @@ A demo clone of the certified production build, seeded with a fictional family �
 
 ## Demo video
 
-**[demo-cut-v8-2026-11-04.mp4](https://github.com/ParentMuse/parent-muse/releases/download/v1.0/demo-cut-v8-2026-11-04.mp4)** (attached to this repo's v1.0 release) — the founder introduces the problem, then four real scenarios run end to end: a schedule change nobody communicated, a therapy-frequency dispute resolved against the plan, a soccer signup with conditions attached, and a summer-schedule standoff that ended without attorneys. Demo footage was partly captured on Ray-Ban Meta glasses.
+**[Watch the demo on YouTube](https://www.youtube.com/watch?v=4PPkRgRSpVA)** (high-quality version; also attached to this repo's v1.0 release) — the founder introduces the problem, then four real scenarios run end to end: a schedule change nobody communicated, a therapy-frequency dispute resolved against the plan, a soccer signup with conditions attached, and a summer-schedule standoff that ended without attorneys. Demo footage was partly captured on Ray-Ban Meta glasses.
 
 ## Built on Meta AI
 
